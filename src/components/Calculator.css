@@ -7,13 +7,14 @@
 }
 
 .result {
-  background-color: #d6d6d6;
+  background-color: #969696;
   height: 50px;
   font-size: 38px;
   display: flex;
   justify-content: flex-end;
   align-items: center;
   padding-right: 8px;
+  color: #fff;
 }
 
 .row {
