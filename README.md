@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-(Click Here)[https://mathmagicbdi.netlify.app/]
+[Click Here](https://mathmagicbdi.netlify.app/)
 
 
 ## Built With
