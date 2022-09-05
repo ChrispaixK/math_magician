@@ -7,6 +7,10 @@
 * Make simple calculations.
 * Read a random math-related quote.
 
+## Live Demo
+
+(Click Here)[https://mathmagicbdi.netlify.app/]
+
 
 ## Built With
 
